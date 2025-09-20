@@ -1,7 +1,7 @@
-# C linear algebra library
+# C linear algebra library <br>
 A linear algebra library written in C.
 
-⚠️ **Work in Progress (WIP)**:
+⚠️ **Work in Progress (WIP)**: <br>
 Matrix operations are implemented ✅  
 Vector operations are still under research 🚧
 
