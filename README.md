@@ -30,7 +30,7 @@ Vector operations are still under research 🚧
 # ⚠️Notes:
 - As I've said, it's under-development, so more versions are comming soon.
 
-@Badrr_dev
-09/20/2025
-IT is elegent.
+@Badrr_dev <br>
+09/20/2025 <br>
+IT is elegent. <br>
 End.
